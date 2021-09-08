@@ -1,3 +1,44 @@
 <resources>
     <string name="app_name">Puzzles</string>
+
+    <!-- Names default to their program names with the first letter uppercased -->
+    <string name="name_blackbox">Black Box</string>
+    <string name="name_bridges">Bridges</string>
+    <string name="name_cube">Cube</string>
+    <string name="name_dominosa">Dominosa</string>
+    <string name="name_fifteen">Fifteen</string>
+    <string name="name_filling">Filling</string>
+    <string name="name_flip">Flip</string>
+    <string name="name_flood">Flood</string>
+    <string name="name_galaxies">Galaxies</string>
+    <string name="name_guess">Guess</string>
+    <string name="name_inertia">Inertia</string>
+    <string name="name_keen">Keen</string>
+    <string name="name_lightup">Light Up</string>
+    <string name="name_loopy">Loopy</string>
+    <string name="name_magnets">Magnets</string>
+    <string name="name_map">Map</string>
+    <string name="name_mines">Mines</string>
+    <string name="name_net">Net</string>
+    <string name="name_netslide">Netslide</string>
+    <string name="name_palisade">Palisade</string>
+    <string name="name_pattern">Pattern</string>
+    <string name="name_pearl">Pearl</string>
+    <string name="name_pegs">Pegs</string>
+    <string name="name_range">Range</string>
+    <string name="name_rect">Rectangles</string>
+    <string name="name_samegame">Same Game</string>
+    <string name="name_signpost">Signpost</string>
+    <string name="name_singles">Singles</string>
+    <string name="name_sixteen">Sixteen</string>
+    <string name="name_slant">Slant</string>
+    <string name="name_solo">Solo</string>
+    <string name="name_tents">Tents</string>
+    <string name="name_towers">Towers</string>
+    <string name="name_tracks">Tracks</string>
+    <string name="name_twiddle">Twiddle</string>
+    <string name="name_undead">Undead</string>
+    <string name="name_unequal">Unequal</string>
+    <string name="name_unruly">Unruly</string>
+    <string name="name_untangle">Untangle</string>
 </resources>
