@@ -33,7 +33,7 @@ android {
         compose = true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.0.1"
+        kotlinCompilerExtensionVersion = "1.0.3"
     }
     packagingOptions.resources.excludes.apply {
         add("META-INF/AL2.0")
@@ -47,7 +47,7 @@ dependencies {
     implementation(Google.android.material)
     implementation(AndroidX.compose.ui)
     implementation(AndroidX.compose.material)
-    implementation("androidx.compose.ui:ui-tooling-preview:_")
+    implementation(AndroidX.compose.ui.toolingPreview)
     implementation(AndroidX.lifecycle.runtimeKtx)
     implementation(AndroidX.activity.compose)
     // testImplementation 'junit:junit:4.+'
